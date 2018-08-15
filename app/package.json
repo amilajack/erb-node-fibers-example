@@ -11,6 +11,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "fibers": "^2.0.0"
+    "fibers": "^3.0.0"
   }
 }
