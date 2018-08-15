@@ -1,7 +1,7 @@
 erb-node-fibers-example
 =======================
 
-[![Build Status](https://travis-ci.org/amilajack/erb-node-fibers-example.svg?branch=master&maxAge=2592)](https://travis-ci.org/amilajack/erb-node-fibers-example)
+[![Build Status](https://travis-ci.org/amilajack/erb-node-fibers-example.svg?branch=master&maxAge=2592)](https://travis-ci.org/amilajack/erb-node-fibers-example) [![Greenkeeper badge](https://badges.greenkeeper.io/amilajack/erb-node-fibers-example.svg)](https://greenkeeper.io/)
 
 **An example of erb with [`fibers`](https://github.com/laverdet/node-fibers)**
 **For all the relevant changes, see [ae8cb3a](https://github.com/amilajack/erb-node-fibers-example/commit/ae8cb3a2de3af00529442025eb228f71e5b4f417)**
